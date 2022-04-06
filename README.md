@@ -8,7 +8,7 @@ Well my fellow admins, down tools! Those users can now take advantage of my [RED
 
 So please, save yourself the pain of coding progress bars for your users – I've borne that pain for you in developing this utility.
 
-Access the wizard here: [redcap.link/pbwiz][wiz]
+Access the wizard here: [redcap.link/pbwiz][wiz], or clone this repository and remix for your own audience, including attribution to the original author.
 
 ## Screenshots
 
