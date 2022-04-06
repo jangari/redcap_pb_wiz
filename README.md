@@ -23,6 +23,8 @@ This idea came from John Liman after the 2022 A/NZ Admin Forum in Melbourne, at 
 
 And after getting some more help from Gunther Rezniczek, specifically around the colour pickers he has in his certificate generator, I think it's now ready to release, at least as version 1.
 
+Thanks to Dan Foley for his nicer alert window.
+
 ## Todo
 
 I plan to incorporate more configuration, perhaps a middle colour for the gradient, shadow and other animations, work on the rather lacklustre JS alert as currently the only way to output the code (maybe a better modal with a copy to clipboard button) and I plan to solve the Font Awesome issue (CALCTEXT'ing html tags is fraught with pain), and will update the project with those enhancements as I work on them.
